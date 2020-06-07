@@ -1,4 +1,4 @@
-# Designed Mini-Facebook
+# Mini-Facebook Design
 
 Designed a relational database for a group of users that allows them to create their profiles, update status, post photos, send messages and comments by using PHP. 
 
